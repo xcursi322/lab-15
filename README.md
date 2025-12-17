@@ -1,1 +1,1 @@
-LR 15 Vakulovskiy 451
+LaboratornaRobota 15 Vakulovskiy 451
